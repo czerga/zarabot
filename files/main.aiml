@@ -4,10 +4,11 @@
 
 <category>
     
+    <pattern>begin</pattern>
     <template>Hi! My name is Zarabot. What's your name?</template>
     
     
-  <pattern>Hello</pattern>
+ 
   
 </category>
 
